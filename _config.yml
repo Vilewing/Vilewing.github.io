@@ -6,3 +6,11 @@ title: Vilewing
 description: My portfolio
 remote_theme: "mmistakes/minimal-mistakes@4.28.0"
 minimal_mistakes_skin: catppuccin_mocha
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      author_profile: true
