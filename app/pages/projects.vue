@@ -42,13 +42,9 @@ useSeoMeta({
           class="flex items-center gap-2"
         >
           <UButton
-            :label="page.links[0]?.label"
-            :to="global.meetingLink"
-            v-bind="page.links[0]"
-          />
-          <UButton
             :to="`mailto:${global.email}`"
-            v-bind="page.links[1]"
+            :label="page.links[0]?.label"
+            v-bind="page.links[0]"
           />
         </div>
       </template>
@@ -88,7 +84,11 @@ useSeoMeta({
               :to="project.url"
               class="text-sm text-primary flex items-center"
             >
-              View Project
+
+              <UIcon
+                name="i-simple-icons-itchdotio"
+                class="size-4"
+              />
               <UIcon
                 name="i-lucide-arrow-right"
                 class="size-4 text-primary transition-all opacity-0 group-hover:translate-x-1 group-hover:opacity-100"

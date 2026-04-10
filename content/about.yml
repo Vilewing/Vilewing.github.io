@@ -1,27 +1,49 @@
-title: About Me
-description: Learn more about my journey as a Boston-based UX/UI Designer & Front-End Developer, my design philosophy, and my passion for crafting intuitive digital experiences.
+title: About me
+description: 
 content: |
-  Hi, I'm **Emma Thompson**, a UX/UI Designer and Front-End Developer based right here in Boston. For the past six years, I've been immersed in the world of digital product creation, focusing on building experiences that are not just functional, but genuinely intuitive and engaging for users.
+  ### What do I hope to accomplish?
 
-  My path started at **Boston University**, where I earned a degree in Interactive Design. It was there I discovered my dual passion for the visual language of design and the logical puzzle of code. Since then, I've honed my skills in both areas, believing that the best digital products are born from a deep understanding of both aesthetics and implementation.
+  Since a very young age I've been interested in games. Specifically I'm interested in both writing and creating interesting systems for the player to interact with. Since the main thing I care about when playing is story telling, game systems, and the interaction between the two. As you can see from the games I created, I'm starting my journey by mainly focusing on writing, but moving forward I plan to also create games systems with more interesting systems at play.
 
-  ### My Design Philosophy
+  <br/>
+  <br/>
 
-  My design philosophy is rooted in **empathy** and **problem-solving**. I believe great design starts with understanding the 'why' – the user's needs, motivations, and pain points. I use research, iterative prototyping (often with tools like Figma), and user testing to ensure the solutions I build are truly effective.
+  My main goal with video game creation, as well as with any creative endeavor I try out, is to create stories that reflect what I've learned from life and hopefully stay with those who play or read them. I hope to make people feel and think, as games, books and other forms of art have donde for me.
 
-  I strive to create interfaces that feel effortless, where functionality and beauty work hand-in-hand. Whether I'm crafting pixel-perfect UIs or writing clean Vue.js/Nuxt.js code, my focus is always on creating value for the end-user.
+  ### Formation and experience
 
-  ### What Drives Me
+  I finished my degree in Computer Engineering in the Pontifical Catholic University of Chile in 2024. Since then I've been working as a full stack developer in the Chilean Security Association. In this position, I've been able to work in projects related to maintaining and adding new features to both legacy systems and the main website used by workers affiliated with the association. I've also worked in innovating and implementing cutting-edge technology to optimize processes.
 
-  What keeps me excited about this work is the constant learning and the challenge of translating complex ideas into simple, elegant solutions. There's nothing more rewarding than seeing a design come to life and knowing it's making someone's digital interaction easier or more enjoyable.
+  ### Games that describe me
 
-  ### Beyond the Screen
+  I have a hard time picking just a few games to describe me, so I ended up picking four (in no particular order):
 
-  When I'm not designing or coding, you might find me exploring Boston's latest coffee shops, hiking nearby trails, or occasionally contributing to open-source projects.
+  * **Clannad:** Honestly, Clannad really touched me, I read it at a pivotal moment in my life where I was unsatisfied with where I was. It showed me that my life didn't need to be forever anchored to the expectations that others had of me. It helped me be true to myself, and appreciate the beauty of life and the bonds we form throughout.
 
-  Thanks for stopping by. Feel free to browse my [projects](/projects) or [get in touch](/#contact) if you'd like to collaborate!
-images:
-  - src: https://images.unsplash.com/photo-1744877478622-a78c7a3336f6?q=80&w=1587&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
-    alt: My coffee workspace
-  - src: https://images.unsplash.com/photo-1744429523595-2c06b8611242?q=80&w=1587&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
-    alt: My trip to Tokyo
+  <img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/324160/capsule_616x353.jpg?t=1770337441" style="width:50%; height:auto; display: block; margin: auto;"/>
+
+  * **Persona 3 FES:** I love the atmosphere of P3, the inmense feeling of melancholy and nostalgia it brings to me. I love that the characters feel like real individuals, and not a homogenous group. And I love how all that reflects on the gameplay by taking away control of your party members.
+
+  <img src="https://altarofgaming.com/wp-content/uploads/2022/11/persona-3-fes-game-cover-altar-of-gaming-131.jpg" style="width:50%; height:auto; display: block; margin: auto;"/>
+
+  * **Suikoden 3:** Honestly the opening cinematic of this game was enough to instantly hook me in. A great adventure from many points of view. A tale about the eternal strugle of coexistance. A demostration of the beauty in acceptance and forgiveness. 
+
+  <img src="https://upload.wikimedia.org/wikipedia/en/d/d8/Suikoden_3.jpg" style="width:25%; height:auto; display: block; margin: auto;"/>
+
+  * **Baldurs Gate EE:** Even though it's not really my favorite CRPG (in fact, I like BG2 more), this was the one that started it all for me. The game that made me fall in love with CRPGs. I initially dropped the game after about 2 hours, not really getting the appeal. After giving it a second chance I ended up combing through every map in the game before completing it. It showed me the unparalleled sense of progression that CRPGs give and how a somewhat simple story can still be fun when given chances to create memorable moments that feel organic.
+
+  <img src="https://m.media-amazon.com/images/M/MV5BMDMxMTlkYTAtNGY0My00OWQ1LTg3ZWYtY2Y5YjMwMzhjMTUzXkEyXkFqcGc@._V1_.jpg" style="width:25%; height:auto; display: block; margin: auto;"/>
+
+  ### Other things I enjoy
+
+  I like reading, and I try to read a little bit of everything, most recently novels, though I've also read a lot of manga. As long as it has something interesting to say I'm on board. Crime and Punishment is a recent favorite of mine. Besides that I enjoy going out to eat with friends, especially if it's somewhere I haven't been. 
+  
+  <br/>
+  <br/>
+
+  Thanks for reading all my ramblings, and I hope you enjoy my work.
+  
+  <br/>
+  <br/>
+
+  <img src="https://media.tenor.com/6oVpxIFwAAoAAAAM/cat-kiss.gif" style="width:25%; height:auto; display: block; margin: auto;"/>
