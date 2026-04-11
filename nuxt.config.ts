@@ -10,6 +10,14 @@ export default defineNuxtConfig({
     'motion-v/nuxt'
   ],
 
+  icon: {
+    clientBundle: {
+      scan: true,
+      sizeLimitKb: 256,
+    },
+    localApiEndpoint: '/_nuxt_icon'
+  },
+
   devtools: {
     enabled: true
   },
