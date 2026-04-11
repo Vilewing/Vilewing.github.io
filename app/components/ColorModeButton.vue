@@ -45,9 +45,8 @@ const startViewTransition = (event: MouseEvent) => {
 
 <template>
   <ClientOnly>
-    {
-      nextTheme === 'dark' ?
       <UButton
+        v-if="nextTheme === 'dark'"
         :aria-label="`Switch to ${nextTheme} mode`"
         icon="i-lucide-sun"
         color="neutral"
@@ -55,8 +54,9 @@ const startViewTransition = (event: MouseEvent) => {
         size="sm"
         class="rounded-full"
         @click="startViewTransition"
-      /> :
+      />
       <UButton
+        v-else
         :aria-label="`Switch to ${nextTheme} mode`"
         icon="i-lucide-moon"
         color="neutral"
@@ -65,8 +65,6 @@ const startViewTransition = (event: MouseEvent) => {
         class="rounded-full"
         @click="startViewTransition"
       />
-    }
-    
     <template #fallback>
       <div class="size-4" />
     </template>
